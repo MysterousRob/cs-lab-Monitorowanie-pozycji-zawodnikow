@@ -1,0 +1,8 @@
+﻿<Window x:Class="Zawodnicy.WPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Monitor zawodników" Height="1050" Width="550">
+    <Grid>
+        <Canvas Name="Field" Background="LightGreen" Width="500" Height="1000" />
+    </Grid>
+</Window>
